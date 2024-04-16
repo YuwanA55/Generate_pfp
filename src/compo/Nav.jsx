@@ -53,19 +53,19 @@ const Nav = () => {
 
       <div className="w-full sm:w-1/2 md:w-1/4 p-6 bg-pink-600">
       <Link to="/Seilors">
-        <h1 className="text-purple-50 font-bold">Seilors Soon</h1>
+        <h1 className="text-purple-50 font-bold">Seilors</h1>
         </Link>
       </div>
 
       <div className="w-full sm:w-1/2 md:w-1/4 p-6 bg-sky-600">
       <Link to="/duck">
-        <h1 className="text-purple-50 font-bold">Duckclub Soon</h1>
+        <h1 className="text-purple-50 font-bold">Duckclub</h1>
         </Link>
       </div>
 
       <div onClick={soon} className="w-full sm:w-1/2 md:w-1/4 p-6 bg-orange-600">
         <a href="#" >
-        <h1 className="text-purple-50 font-bold">Capy Freens</h1>
+        <h1 className="text-purple-50 font-bold">Capy Soon</h1>
         </a>
       </div>
 
