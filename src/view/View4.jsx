@@ -4,7 +4,7 @@ const View4 = () => {
     const [imageSrc, setImageSrc] = useState('');
 
     // URL tetap untuk menampilkan gambar
-    const baseURL = 'https://puasa23.000webhostapp.com/zkprinces_avif/';
+    const baseURL = 'https://pfpgen.yuwan.eu/zkprinces_avif/';
   
     // Array yang berisi nama-nama file gambar dari '1.png' hingga '53.png'
     const imageNames = Array.from({ length: 101 }, (_, index) => `${index + 1}.avif`);
