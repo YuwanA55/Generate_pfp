@@ -5,7 +5,7 @@ const View6 = () => {
     const [imageSrc, setImageSrc] = useState('');
 
     // URL tetap untuk menampilkan gambar
-    const baseURL = 'https://puasa23.000webhostapp.com/duckclub_aviff/';
+    const baseURL = 'https://pfpgen.yuwan.eu/duckclub_aviff/';
   
     // Array yang berisi nama-nama file gambar dari '1.png' hingga '53.png'
     const imageNames = Array.from({ length: 29 }, (_, index) => `${index + 1}.avif`);
